@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import 'book.dart';
+import '../models/book.dart';
 
 class MainBookAppConcept extends StatelessWidget {
   @override
